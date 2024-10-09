@@ -1,0 +1,36 @@
+﻿  test07.cpp
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(15,33): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(15,38): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(17,33): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(17,38): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(20,30): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(20,35): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(20,40): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(21,30): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(21,35): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(21,40): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(66,22): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(67,22): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(71,22): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(72,22): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(89,21): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(89,16): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(89,11): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(97,21): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(97,16): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(97,11): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(106,21): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(106,16): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(106,11): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(114,21): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(114,16): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(114,11): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(151,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(152,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(197,25): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(197,20): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\test07.cpp(197,15): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  LINK : D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\x64\Debug\test07.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  test07.vcxproj -> D:\24-3-2\opengl\과제1\컴퓨터그래픽스과제202004117최민성\x64\Debug\test07.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
